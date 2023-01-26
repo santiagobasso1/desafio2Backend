@@ -182,4 +182,4 @@ const tests2PruebasVarias = async ()=>{
     console.log(await productManager.getAllProducts());
 }
 
-tests2PruebasVarias();
+tests();
